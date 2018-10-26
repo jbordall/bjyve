@@ -4,7 +4,7 @@
 # Launch, list, and stop virtual machines (VMs).
 
 echo "Welcome to the bhyve hypervisor!"
-echo \n
+echo 
 echo "Choose an action:"
-echo \n
+echo 
 echo "1. Start a virtual machine (VM)."
